@@ -1,1 +1,1 @@
- this readme is my first step to use my cumputer terminal with the github 
+ **this readme is my first step to use my cumputer terminal with the github** 
